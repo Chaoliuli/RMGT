@@ -1,5 +1,4 @@
 <body marginheight="0"><h1>Masked Graph Transformer for Recommendation</h1>
-<h3>Torch version is available!</h3>
 <p>This repository contains pyTorch code and datasets for the paper:
 
 </p>
